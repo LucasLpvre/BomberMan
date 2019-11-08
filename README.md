@@ -1,8 +1,10 @@
 **Pour lancer le jeu**
- * Téléchargez PyQt5  >pip install PyQt5
- * Lancer le main.py >./main.py
+ * Télécharger PyQt5  
+>pip install PyQt5
+ * Lancer le main.py 
+>./main.py
 
-**Les commande du jeu**
+**Les commandes du jeu**
  * z : aller vers le haut;
  * q : aller vers la gauche;
  * s : aller vers le bas;
