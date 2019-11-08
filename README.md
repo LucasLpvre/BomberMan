@@ -12,8 +12,8 @@
  * x : poser une bombe;
 
 **Les règles du jeu**
- * mission principal : aller vers la sortie
- * bonus : aller vers les itemsp pour avoir une bombe plus puissante
+ * mission principale : aller vers la sortie
+ * bonus : aller vers les items pour avoir une bombe plus puissante
  * /!\ vos propres bombes peuvent vous tuer
 
   
